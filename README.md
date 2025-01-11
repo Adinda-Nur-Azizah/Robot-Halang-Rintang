@@ -1,4 +1,5 @@
 # Robot-Halang-Rintang
-Create and develop an autonomous robot capable of detecting and avoiding obstacles using ultrasonic sensors. The robot can adjust its movement and turn automatically if it detects an obstacle within 40 cm with a response time of less than 0.5 seconds.
+
+Robot otonom ini menggunakan sensor ultrasonik untuk mendeteksi dan menghindari rintangan. Robot ini mampu menyesuaikan gerakan dan mengubah arah secara otomatis jika mendeteksi rintangan dalam jarak 40 cm, dan merespons dalam waktu 0,5 detik.
 
 [![Robot-Halang-Rintang](https://img.youtube.com/vi/lbudE8sCeSY/0.jpg)](https://youtu.be/lbudE8sCeSY)
