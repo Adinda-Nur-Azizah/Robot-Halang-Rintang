@@ -1,4 +1,4 @@
-# Robot-Halang-Rintang
+# Robot Halang Rintang
 
 Robot otonom ini menggunakan sensor ultrasonik untuk mendeteksi dan menghindari rintangan. Robot ini mampu menyesuaikan gerakan dan mengubah arah secara otomatis jika mendeteksi rintangan dalam jarak 40 cm, dan merespons dalam waktu 0,5 detik.
 
