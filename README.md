@@ -5,9 +5,5 @@ Robot otonom ini menggunakan sensor ultrasonik untuk mendeteksi dan menghindari 
 [![Robot-Halang-Rintang](https://img.youtube.com/vi/lbudE8sCeSY/0.jpg)](https://youtu.be/lbudE8sCeSY)
 
 Laporan detail projek Robot Halang Rintang.  
-Klik tautan berikut untuk mengunduh file PDF:
-
-[Download Robot Halang Rintang - Laporan Robotika](https://github.com/Adinda-Nur-Azizah/Robot-Halang-Rintang/blob/main/LAPORAN_ROBOTIKA_ADINDA.pdf)
-
-Atau klik ikon berikut untuk unduhan langsung:  
+Klik ikon berikut untuk mengunduh file PDF:  
 [![PDF](https://img.icons8.com/color/48/000000/pdf.png)](https://github.com/Adinda-Nur-Azizah/Robot-Halang-Rintang/blob/main/LAPORAN_ROBOTIKA_ADINDA.pdf)
